@@ -17,7 +17,7 @@ a:f wrong answer a
 b:t right answer b
 c:f wrong answer c
 Wrong answer question 2
-2
+3
 2:2
 
 Q3) Question 3
